@@ -29,7 +29,7 @@ import java.util.*;
 
 public class DidBidDriver implements Driver {
 
-	public static final String DEFAULT_BID_URL = "http://test-bidresolver.bitfactory.cn";
+	public static final String DEFAULT_BID_URL = "https://bidresolver.bitfactory.cn";
 
 	public static final HttpClient DEFAULT_HTTP_CLIENT = HttpClientBuilder.create().setRedirectStrategy(new LaxRedirectStrategy()).build();
 
