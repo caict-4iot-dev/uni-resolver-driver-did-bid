@@ -7,7 +7,7 @@ This is a [Universal Resolver](https://github.com/decentralized-identity/univers
 ## Specifications
 
 * [Decentralized Identifiers](https://www.w3.org/TR/did-core/)
-* [DID Method Specification](https://github.com/caict-4iot-dev/uni-resolver-driver-did-bid/)
+* [DID Method Specification](https://github.com/teleinfo-bif/bid/blob/master/doc/en/readme.md)
 
 ## Example DIDs
 
